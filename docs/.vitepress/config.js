@@ -18,7 +18,7 @@ export default defineConfig({
 
   appearance: false,
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/logo.svg',
     siteTitle: false,
     nav: nav(),
     sidebar: sidebar(),
